@@ -1,4 +1,5 @@
 Add below strings to FlightGear GUI Launch Settings / Additional Settings
+    
     --log-level=debug
     --telnet=5500
     --prop:/sim/telnet/enabled=true
