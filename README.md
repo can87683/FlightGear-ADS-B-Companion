@@ -46,7 +46,7 @@ Notice & Copyright
         
 -----------------------------------------------------
 
-Add below strings to FlightGear GUI Launch Settings / Additional Settings
+Add strings to FlightGear GUI Launch Settings / Additional Settings
     
     --log-level=debug
     --telnet=5500
