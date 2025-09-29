@@ -8,7 +8,6 @@ All Rights Reserved
 Contact me for features or bugs Email can87683 at you know gmail dot com
 
 https://github.com/can87683
------------------------------------------------------
 
 This is a Python project experimenting 
 working with LLMs. The goal is to 
