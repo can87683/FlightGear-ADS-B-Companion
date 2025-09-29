@@ -1,11 +1,14 @@
 # FlightGear ADS-B Companion 
 is a freeware
 
-https://github.com/can87683
-
 BSD 3-Clause License
-Copyright (c) 2025 SU Nie
+Copyright © SU Nie
 All Rights Reserved
+
+Contact me for features or bugs Email can87683 at you know gmail dot com
+
+https://github.com/can87683
+-----------------------------------------------------
 
 This is a Python project experimenting 
 working with LLMs. The goal is to 
