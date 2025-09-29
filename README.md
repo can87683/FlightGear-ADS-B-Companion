@@ -1,4 +1,4 @@
-     # FlightGear ADS-B Companion 
+# FlightGear ADS-B Companion 
         is a freeware
 
         https://github.com/can87683
