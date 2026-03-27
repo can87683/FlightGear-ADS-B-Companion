@@ -2,7 +2,9 @@
 is a freeware
 
 BSD 3-Clause License
+
 Copyright © SU Nie
+
 All Rights Reserved
 
 Contact me for features or bugs Email can87683 at you know gmail dot com
@@ -42,4 +44,7 @@ gives global data streams for free.
 Yet I throttle the refresh rate to 
 endorse etiquettes. So adsb.lol is
 the default source.
+
+Source will be released after final version is done. Still having bugs and features to handle.
+
 
