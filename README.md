@@ -1,28 +1,19 @@
 # FlightGear ADS-B Companion 
 is a freeware
 
-BSD 3-Clause License
+# BSD 3-Clause License
 
 Copyright © SU Nie
-
 All Rights Reserved
 
-Contact me for features or bugs Email can87683 at you know gmail dot com
-
-https://github.com/can87683
+Contact me for features or bugs 
+Email can87683 at you know gmail dot com
 
 This is a Python project experimenting 
 working with LLMs. The goal is to 
 provide ADS-B based air traffic in 
 Flightgear. The project time is 
 about 110 hours from inception to binaries.
-
-In a-z order, ChatGPT, DeepSeek, Perplexity
-were immense debugging aids. Or the
-time needed would be many folds. About
-60 hours were levied on debugging/testing.
-Platform/tools used are Debian 12, mingw, 
-pyinstaller, and vscodium.
 
 Product operation flow:
 - Set takeoff airport by ICAO
@@ -45,6 +36,15 @@ Yet I throttle the refresh rate to
 endorse etiquettes. So adsb.lol is
 the default source.
 
-Source will be released after final version is done. Still having bugs and features to handle.
+Source will be released after final version is done. 
+Still having bugs and features to handle.
+
+# Debug/coding assistants
+DeepSeek, ChatGPT, Perplexity, Gemini, Claude
+
+Or the time needed would be many folds. 
+About 60 hours were levied on debugging/testing.
+Platform/tools used are Debian 12, mingw, pyinstaller, and vscodium.
+
 
 
