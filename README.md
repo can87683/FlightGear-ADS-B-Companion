@@ -1,3 +1,5 @@
+# All uploads were removed without my authorization; Now upload size limit is 25MB per file; Follow the repo to download when uploads are permitted again 
+
 # FlightGear ADS-B Companion 
 is a freeware
 
