@@ -1,13 +1,11 @@
-# FlightGear ADS-B Companion 
-is a freeware
-
-# BSD C3 License
-
 Copyright © SU Nie
 All Rights Reserved
+# BSD C3 License
 
 Contact me for features or bugs 
 Email can87683 at gmail dot com
+
+# FlightGear ADS-B Companion 
 
 Product operation flow:
 - Set takeoff airport by ICAO
@@ -24,9 +22,8 @@ Product operation flow:
   any matching model, the all-weather 
   c172p is the fallback model.
 
-Or the time needed would be many folds. 
-About 60 hours were levied on debugging/testing.
-Platform/tools used are Debian 12, mingw, pyinstaller, and vscodium.
+# FlightGear ICAO TaxiOut Predictor
 
+Fully automatic. No user input is required.
 
 
