@@ -1,7 +1,8 @@
 Copyright © SU Nie
 All Rights Reserved
 
-Contact me for features or bugs 
+For features or bugs 
+
 Email can87683 at gmail dot com
 
 # FlightGear ADS-B Companion 
