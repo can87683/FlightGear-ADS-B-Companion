@@ -18,8 +18,8 @@ class NuitkaCompiler:
 
     PROBLEMATIC_PACKAGES = [
         "torch", "tensorflow",
-        "keras", "sklearn", "cv2", "bokeh", "plotly", "seaborn", "statsmodels",
-        "spacy", "nltk", "transformers", "flask", "django",
+        "keras", "sklearn", "cv2", "bokeh", "plotly", "seaborn", "statsmodels", "xgboost",
+        "lightgbm", "catboost", "spacy", "nltk", "transformers", "flask", "django", "fastapi",
         "sqlalchemy", "psycopg2", "pymongo", "redis", "celery", "boto3", "botocore", "awscli",
         "azure", "google.cloud", "grpc", "protobuf", "cryptography", "paramiko", "fabric",
         "ansible", "pytest", "unittest", "nose", "hypothesis", "jupyter", "ipython", "notebook",
@@ -28,7 +28,7 @@ class NuitkaCompiler:
 
     SAFE_PIL_EXCLUDES = [
         "PIL._avif", "PIL._webp", "PIL.ImageQt", "PIL._imagingmorph",
-        "PIL._imagingmath", "PIL._imagingcms"
+        "PIL._imagingmath", "PIL._imagingcms", "PIL._tkinter_finder"
     ]
 
     DATA_EXTENSIONS = {
